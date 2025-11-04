@@ -1,0 +1,23 @@
+{
+  "name": "server-houses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkyano/server-houses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkyano/server-houses/issues"
+  },
+  "homepage": "https://github.com/tkyano/server-houses#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
